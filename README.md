@@ -9,3 +9,9 @@ Game Play:
     -> Toss: User can choose either odd or even and the system generates a random value depending on whether it’s odd or even the user gets to choose to bat or ball.
    
    -> Batting/Bowling: The user can choose a number from 1 to 6 and the system also generates a randomized value; if values do not match - the batsman is safe and the                          score is added to the scoreboard. If the value matches, then the batsman is considered out, and the next batsman comes in.
+
+## 👨‍💻 Contributors
+Member | SRN | Sec 
+--- | --- | ---
+[Geethika K](https://github.com/Geeth5) | PES2UG19CS127 | B<br>
+[Lakshmi Narayan P](https://github.com/LakshmiNarayanP) | PES2UG19CS200 | D
